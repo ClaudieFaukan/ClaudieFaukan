@@ -47,7 +47,7 @@
 
 <a href="#" target="_blank"> <img src="./images/github-user-contribution.svg" alt="snake git"/> </a>  
 
-![GitHub Snake Light](./github-contribution-grid-snake.svg#gh-light-mode-only)
+
 ![GitHub Snake dark](./github-contribution-grid-snake-dark.svg?#gh-dark-mode-only)
 <br>
 <h3 align="center">Connect with me: :star:</h3>
